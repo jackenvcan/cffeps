@@ -1,0 +1,5 @@
+/usr/bin/make -f ./CFFEPS.mk
+/usr/bin/make -f ./FGM.mk
+/usr/bin/make -f ./Plumex.mk
+/usr/bin/make -f ./Emissionsx.mk
+
